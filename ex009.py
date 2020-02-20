@@ -9,4 +9,5 @@ t7 = n * 7
 t8 = n * 8
 t9 = n * 9
 t10 = n * 10
-print('A tabuado do {} é: \n {} \n {} \n {} \n {} \n {} \n {} \n {} \n {} \n {} \n {} '.format(n, t1, t2, t3, t4, t5, t6, t7, t8, t9, t10))
+print('A tabuado do {} é: \n {} \n {} \n {} \n {} \n {} \n {} \n {} \n {} \n {} \n {} '.format(
+    n, t1, t2, t3, t4, t5, t6, t7, t8, t9, t10))
